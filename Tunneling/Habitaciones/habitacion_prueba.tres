@@ -1,0 +1,7 @@
+[gd_resource type="Resource" script_class="Habitacion" format=3 uid="uid://cma22ud4qyppk"]
+
+[ext_resource type="Script" uid="uid://bnf8s436alb24" path="res://Tunneling/Habitaciones/res_habitacion.gd" id="1_xp1a4"]
+
+[resource]
+script = ExtResource("1_xp1a4")
+metadata/_custom_type_script = "uid://bnf8s436alb24"
